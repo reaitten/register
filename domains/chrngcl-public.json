@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "proweldo",
+        "email": "proweldo@gmail.com"
+    },
+    "target": {
+        "A": {
+            "name": "chrngcl-public",
+            "value": ["52.220.136.32"]
+        }
+    },
+    "proxied": false
+}
